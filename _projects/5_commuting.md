@@ -6,7 +6,7 @@ importance: 5
 category: research
 ---
 
-**From Travel Experience to Mobility Evaluation: A Real-Time Behavioural Study of Urban Commuting in Dhaka** is a collaboration between DIAL, North South University and Dr. Charisma F. Choudhury at the University of Leeds, UK (August 2026 – present).
+**From Travel Experience to Mobility Evaluation: A Real-Time Behavioural Study of Urban Commuting in Dhaka** is a collaboration between DIAL, North South University and Dr. Charisma F. Choudhury at the University of Leeds, UK (July 2026 – present).
 
 **Approach**
 
