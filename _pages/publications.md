@@ -30,3 +30,7 @@ nav_order: 1
 
 - Technology adoption among low-literate women (Co-learning & Familiarization Project) · target: _ACM IMWUT_
 - Long-term stress among physicians during the COVID-19 pandemic, with Cardiff University · target: _JMIR Mental Health_
+
+## Service
+
+- Reviewer, ACM COMPASS 2026 (Posters Track)
