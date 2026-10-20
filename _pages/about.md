@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Assistant at the [Design Inclusion and Access Lab (DIAL)](https://sites.google.com/view/nsuhci/home), North South University, Bangladesh, where I work with [Dr. Nova Ahmed](https://sites.google.com/view/nsuhci/home) on Human-Computer Interaction research.
+I am a Research Assistant at the [Design Inclusion and Access Lab (DIAL)](https://sites.google.com/view/nsuhci/home), North South University, Bangladesh, where I work with [Dr. Nova Ahmed](https://ece.northsouth.edu/people/nova-ahmed/) on Human-Computer Interaction research.
 
 I build and study **low-cost wearable and physiological sensing systems for health and wellbeing in resource-constrained settings**. My work combines custom sensing hardware (ESP32, PPG, GSR, IMU), machine learning on physiological signals such as heart rate variability and skin conductance, and mixed-methods fieldwork with the communities these technologies are meant to serve.
 
