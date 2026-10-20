@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects and code. Click a card for details.
+description: Research projects, code and course projects. Click a card for details.
 nav: true
 nav_order: 2
-display_categories: [research, code]
+display_categories: [research, code, coursework]
 horizontal: false
 ---
 

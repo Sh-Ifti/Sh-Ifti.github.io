@@ -106,7 +106,7 @@ content:
         label: Category
         type: select
         options:
-          values: [research, code]
+          values: [research, code, coursework]
       - name: body
         label: Project page (Markdown)
         type: text
