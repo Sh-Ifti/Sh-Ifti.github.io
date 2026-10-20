@@ -34,4 +34,4 @@ category: research
 
 **Links:** [Paper (ACM Digital Library)](https://doi.org/10.1145/3811242.3819996) · [Analysis code](https://github.com/Sh-Ifti/spondon-stress-wearable)
 
-_Shahariar Ifti, Rahat Jahangir Rony, Shuvashish Chakraborty, Asif Mahbub, Nova Ahmed. ACM COMPASS 2026, short paper._
+_Shahariar Ifti, Rahat Jahangir Rony, Shuvashish Chakraborty, Asif Mahbub, [Nova Ahmed](https://ece.northsouth.edu/people/nova-ahmed/). ACM COMPASS 2026, short paper._
