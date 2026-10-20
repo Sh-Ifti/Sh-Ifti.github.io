@@ -1,0 +1,129 @@
+# Pages CMS configuration (https://pagescms.org)
+# Sign in at https://app.pagescms.org with GitHub to edit this site from the browser.
+media:
+  input: assets/img/uploads
+  output: /assets/img/uploads
+
+content:
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: _posts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [title, date]
+      primary: title
+      sort: [date]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: layout
+        label: Layout
+        type: string
+        default: post
+        hidden: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: description
+        label: Short description
+        type: string
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: thumbnail
+        label: Thumbnail image (optional)
+        type: image
+      - name: body
+        label: Post
+        type: rich-text
+
+  - name: news
+    label: News
+    type: collection
+    path: _news
+    filename: "{year}-{month}-{day}-news.md"
+    view:
+      fields: [date, body]
+      sort: [date]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: layout
+        type: string
+        default: post
+        hidden: true
+      - name: inline
+        type: boolean
+        default: true
+        hidden: true
+      - name: related_posts
+        type: boolean
+        default: false
+        hidden: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: body
+        label: News item (one or two sentences)
+        type: rich-text
+
+  - name: projects
+    label: Projects
+    type: collection
+    path: _projects
+    view:
+      fields: [title, category, importance]
+      primary: title
+    fields:
+      - name: layout
+        type: string
+        default: page
+        hidden: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: One-line description (shown on the card)
+        type: string
+      - name: img
+        label: Card image (optional)
+        type: image
+      - name: importance
+        label: Order within its category (1 = first)
+        type: number
+      - name: category
+        label: Category
+        type: select
+        options:
+          values: [research, code]
+      - name: body
+        label: Project page (Markdown)
+        type: text
+
+  - name: gallery
+    label: Photo gallery
+    type: file
+    path: _data/gallery.yml
+    fields:
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: caption
+            label: Caption
+            type: string
