@@ -52,6 +52,15 @@ cv:
         start_date: 2026-08-01
         end_date: present
 
+      - name: Cross-Cultural Safety for Youth in GenAI, with Pennsylvania State University
+        summary: Research Assistant on the Bangladesh team of a project led by Dr. Tanusree Sharma.
+        start_date: 2026-06-01
+        end_date: present
+      - name: Physician Stress during COVID-19, with Cardiff University
+        summary: Research Assistant, with Dr. Rahat Jahangir Rony and Dr. Naeima Hamed. Manuscript in preparation for JMIR Mental Health.
+        start_date: 2026-04-01
+        end_date: present
+
       - name: HEAT Subproject (World Bank-funded), DIAL
         summary: Nationwide mixed-methods study of the mental health of tertiary-level students in Bangladesh. Co-authored paper under review at ACM CHI 2027.
         start_date: 2026-01-01
@@ -67,11 +76,6 @@ cv:
         start_date: 2024-06-01
         end_date: 2025-10-01
 
-      - name: Physician Stress during COVID-19, with Cardiff University
-        summary: Research Assistant, with Dr. Rahat Jahangir Rony and Dr. Naeima Hamed. Manuscript in preparation for JMIR Mental Health.
-
-      - name: Cross-Cultural Safety for Youth in GenAI, with Pennsylvania State University
-        summary: Research Assistant on the Bangladesh team of a project led by Dr. Tanusree Sharma.
 
     Publications:
       - title: "Spondon: A Low-Cost, Multi-Sensor Wearable for Understanding Stress in Resource-Constrained Countries"
