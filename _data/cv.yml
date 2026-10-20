@@ -4,7 +4,7 @@ cv:
   email: shahariarifti16@gmail.com
   location: Dhaka, Bangladesh
   image: ""
-  summary: Research Assistant at the Design Inclusion and Access Lab (DIAL), North South University, working on low-cost wearable and physiological sensing for health and wellbeing in resource-constrained settings.
+  summary: Research Assistant at the Design Inclusion and Access Lab (DIAL), North South University, working on human-centered technology for health and wellbeing in underserved communities, combining mixed-methods fieldwork with low-cost sensing.
 
   social_networks:
     - network: GitHub
@@ -33,9 +33,9 @@ cv:
         end_date: present
         summary: HCI research on health and wellbeing, supervised by Dr. Nova Ahmed.
         highlights:
-          - Developing custom wearable hardware (ESP32, PPG, GSR, IMU)
-          - Collecting and analyzing physiological health data (HRV, GSR, IMU) with machine learning and deep learning models
-          - Conducting literature reviews and mixed-methods studies, and contributing to publications
+          - Designing and running mixed-methods studies (interviews, surveys, workshops, co-design) with underserved communities
+          - Developing low-cost wearable hardware (ESP32, PPG, GSR, IMU) and analyzing physiological data with machine learning
+          - Conducting literature reviews and writing publications
 
       - company: Department of Mathematics & Physics, North South University
         position: Teaching Assistant
@@ -95,6 +95,9 @@ cv:
         awarder: ESRD Lab, BUET & NSU ACM
 
     Skills:
+      - name: Research Methods
+        icon: fa-solid fa-users
+        keywords: "Mixed methods, user studies, workshops and co-design, PSS / PHQ-9 instruments"
       - name: Sensing & Hardware
         icon: fa-solid fa-microchip
         keywords: "ESP32, Arduino, BLE, ICM20948 / MPU6050 IMU, MAX30102 (PPG), GSR, Empatica EmbracePlus"
@@ -104,9 +107,6 @@ cv:
       - name: Programming
         icon: fa-solid fa-code
         keywords: "Python, C++, Java, JavaScript, SQL, HTML & CSS"
-      - name: Research Methods
-        icon: fa-solid fa-users
-        keywords: "Mixed methods, user studies, workshops and co-design, PSS / PHQ-9 instruments"
 
     Languages:
       - name: Bengali

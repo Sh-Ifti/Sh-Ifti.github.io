@@ -28,9 +28,9 @@ latest_posts:
 
 I am a Research Assistant at the [Design Inclusion and Access Lab (DIAL)](https://sites.google.com/view/nsuhci/home), North South University, Bangladesh, where I work with [Dr. Nova Ahmed](https://ece.northsouth.edu/people/nova-ahmed/) on Human-Computer Interaction research.
 
-I build and study **low-cost wearable and physiological sensing systems for health and wellbeing in resource-constrained settings**. My work combines custom sensing hardware (ESP32, PPG, GSR, IMU), machine learning on physiological signals such as heart rate variability and skin conductance, and mixed-methods fieldwork with the communities these technologies are meant to serve.
+I study how people in **underserved and resource-constrained communities** experience health, wellbeing and technology, and design technology with them. My research is grounded in **mixed-methods fieldwork**: interviews, surveys, workshops and co-design with university students, low-literate women, physicians, commuters and young people in Bangladesh. When a problem calls for it, I also build **low-cost sensing systems** (ESP32, PPG, GSR, IMU) and machine learning models that generalize to new people.
 
-Recent work includes [Spondon](/projects/1_spondon/), a US$46 stress-sensing wearable published at ACM COMPASS 2026, a World Bank-funded nationwide study of student mental health, and a wearable for post-stroke rehabilitation. I also work with researchers at Cardiff University, the University of Leeds and Pennsylvania State University.
+Recent work includes a World Bank-funded nationwide study of student mental health (under review at ACM CHI 2027), co-design workshops on technology adoption with low-literate women, [Spondon](/projects/1_spondon/), a US$46 stress-sensing wearable published at ACM COMPASS 2026, and a wearable for post-stroke rehabilitation. I also work with researchers at Cardiff University, the University of Leeds and Pennsylvania State University.
 
 **Research interests**
 
