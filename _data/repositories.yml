@@ -6,6 +6,7 @@ repo_description_lines_max: 2
 github_repos:
   - Sh-Ifti/spondon-stress-wearable
   - Sh-Ifti/sleep-monitoring-wearable
+  - Sh-Ifti/kitchen-leak-monitor-stm32
   - Sh-Ifti/bangladesh-flood-mapping
   - Sh-Ifti/airbnb-price-prediction-europe
   - Sh-Ifti/onnomitro-meal-recommender
