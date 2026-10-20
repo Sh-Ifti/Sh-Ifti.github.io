@@ -1,0 +1,11 @@
+github_users:
+  - Sh-Ifti
+
+repo_description_lines_max: 2
+
+github_repos:
+  - Sh-Ifti/spondon-stress-wearable
+  - Sh-Ifti/sleep-monitoring-wearable
+  - Sh-Ifti/bangladesh-flood-mapping
+  - Sh-Ifti/airbnb-price-prediction-europe
+  - Sh-Ifti/onnomeal-meal-recommender
