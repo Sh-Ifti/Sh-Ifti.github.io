@@ -34,9 +34,9 @@ Recent work includes [Spondon](/projects/1_spondon/), a US$46 stress-sensing wea
 
 **Research interests**
 
+- Human-centered design of technology for underserved populations
+- Machine learning that generalizes across individuals (personalization, subject-independent evaluation)
 - Wearable and physiological sensing for stress and mental health
-- Machine learning that generalizes to unseen individuals
 - Low-cost health technology for the Global South
-- Human-centered design for underserved populations
 
 I hold a BSc in Computer Science and Engineering from North South University (2024). **I am applying for PhD positions starting in 2027** in HCI, ubiquitous and mobile health, and ICTD. [Get in touch](mailto:shahariarifti16@gmail.com) if my work fits your group.
