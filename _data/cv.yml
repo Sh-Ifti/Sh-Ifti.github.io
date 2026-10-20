@@ -45,12 +45,13 @@ cv:
         highlights:
           - Led discussion sessions, graded assignments, and mentored students
 
-      - company: ACM COMPASS 2026, Posters Track
-        position: Reviewer
-        start_date: 2026-05-01
-        end_date: 2026-06-01
 
     Projects:
+      - name: Urban Commuting in Dhaka, with the University of Leeds
+        summary: Real-time behavioural study of commuter stress combining experience sampling with Empatica EmbracePlus data. Research Assistant, with Dr. Charisma F. Choudhury.
+        start_date: 2026-08-01
+        end_date: present
+
       - name: HEAT Subproject (World Bank-funded), DIAL
         summary: Nationwide mixed-methods study of the mental health of tertiary-level students in Bangladesh. Co-authored paper under review at ACM CHI 2027.
         start_date: 2026-01-01
@@ -65,11 +66,6 @@ cv:
         summary: Low-cost ESP32 and IMU wearable with an Android app for real-time recognition of post-stroke rehabilitation exercises. Co-authored paper under review at IEEE PerCom 2027.
         start_date: 2024-06-01
         end_date: 2025-10-01
-
-      - name: Urban Commuting in Dhaka, with the University of Leeds
-        summary: Real-time behavioural study of commuter stress combining experience sampling with Empatica EmbracePlus data. Research Assistant, with Dr. Charisma F. Choudhury.
-        start_date: 2026-08-01
-        end_date: present
 
       - name: Physician Stress during COVID-19, with Cardiff University
         summary: Research Assistant, with Dr. Rahat Jahangir Rony and Dr. Naeima Hamed. Manuscript in preparation for JMIR Mental Health.
