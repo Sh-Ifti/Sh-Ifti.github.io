@@ -14,4 +14,4 @@ category: research
 - Quantitative analysis of the data using PSS, PHQ-9, and GAD-7 scores
 - Co-designing AI-driven interventions
 
-**Output:** a co-authored paper, _"My Mind Is a Combination of My Body, My Money, and My Study": Contextualizing Mental Health Support Ecologies for Tertiary Students in Bangladesh_, is under review at ACM CHI 2027.
+**Output:** A co-authored paper, _"My Mind Is a Combination of My Body, My Money, and My Study": Contextualizing Mental Health Support Ecologies for Tertiary Students in Bangladesh_, is under review at ACM CHI 2027.
