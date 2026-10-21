@@ -97,7 +97,7 @@ cv:
     Skills:
       - name: Research Methods
         icon: fa-solid fa-users
-        keywords: "Mixed methods, user studies, workshops and co-design, PSS / PHQ-9 instruments"
+        keywords: "Mixed methods, user studies, workshops and co-design"
       - name: Sensing & Hardware
         icon: fa-solid fa-microchip
         keywords: "ESP32, Arduino, BLE, ICM20948 / MPU6050 IMU, MAX30102 (PPG), GSR, Empatica EmbracePlus"
