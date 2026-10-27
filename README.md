@@ -2,6 +2,8 @@
 
 Personal academic website of **Shahariar Ifti**, live at **https://sh-ifti.github.io**.
 
+![Profile Views](https://komarev.com/ghpvc/?username=sh-ifti&color=blue)
+
 Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) theme, hosted free on GitHub Pages. Every push to `main` rebuilds and publishes the site automatically (see the **Actions** tab); the built site lives on the `gh-pages` branch, which should not be edited by hand.
 
 ## Editing from the browser
