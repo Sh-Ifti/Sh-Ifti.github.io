@@ -41,13 +41,17 @@ Recent work includes [Alor Dhara](/projects/2_heat/), a World Bank-funded nation
 
 **Current projects**
 
-| Project | Partner | My role | Since | Status |
-|---|---|---|---|---|
-| [Urban Commuting in Dhaka](/projects/5_commuting/): commuter stress via experience sampling and wearables | University of Leeds (Dr. Charisma F. Choudhury) | Research Assistant | Jul 2026 | Ongoing |
-| [Youth Safety in Generative AI](/projects/7_genai_youth/): cross-cultural study of teenagers' ChatGPT use | Pennsylvania State University (Dr. Tanusree Sharma) | Research Assistant, Bangladesh team | Jun 2026 | Ongoing |
-| [Physician Stress during COVID-19](/projects/6_physicians/): long-term stress among physicians | Cardiff University (Dr. Rahat Jahangir Rony) | Research Assistant | Apr 2026 | Manuscript in preparation (JMIR Mental Health) |
-| [Alor Dhara](/projects/2_heat/): nationwide study of student mental health (World Bank-funded HEAT subproject) | DIAL, NSU | Research Assistant | Jan 2026 | Manuscript in preparation |
-| [Co-learning & Familiarization](/projects/4_colearning/): technology adoption among low-literate women | DIAL, NSU | Research Assistant | Jun 2025 | Manuscript in preparation (ACM IMWUT) |
+<div class="table-responsive" markdown="1">
+
+| Project | Partner | Since | Status |
+|---|---|---|---|
+| [Urban Commuting in Dhaka](/projects/5_commuting/) | University of Leeds | Jul 2026 | Ongoing |
+| [Youth Safety in Generative AI](/projects/7_genai_youth/) | Penn State University | Jun 2026 | Ongoing |
+| [Physician Stress during COVID-19](/projects/6_physicians/) | Cardiff University | Apr 2026 | Writing (JMIR Mental Health) |
+| [Alor Dhara](/projects/2_heat/): student mental health (World Bank) | DIAL, NSU | Jan 2026 | Writing |
+| [Co-learning & Familiarization](/projects/4_colearning/) | DIAL, NSU | Jun 2025 | Writing (ACM IMWUT) |
 {: .table .table-sm .table-hover}
+
+</div>
 
 I hold a BSc in Computer Science and Engineering from North South University (2024). **I am applying for PhD positions starting in 2027** in HCI, ubiquitous and mobile health, and ICTD. [Get in touch](mailto:shahariarifti16@gmail.com) if my work fits your group.
