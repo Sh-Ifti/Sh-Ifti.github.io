@@ -1,12 +1,12 @@
 ---
 layout: page
-title: HEAT
+title: Alor Dhara
 description: A World Bank-funded nationwide study of student mental health in Bangladesh
 importance: 2
 category: research
 ---
 
-**HEAT** is a World Bank-funded, nationwide mixed-methods project assessing the mental health of tertiary-level students in Bangladesh and identifying technological solutions. I have worked on it as a Research Assistant at DIAL since January 2026.
+**Alor Dhara** is a World Bank-funded, nationwide mixed-methods project (a subproject of HEAT) assessing the mental health of tertiary-level students in Bangladesh and identifying technological solutions. I have worked on it as a Research Assistant at DIAL since January 2026.
 
 **My role**
 
@@ -14,4 +14,4 @@ category: research
 - Quantitative analysis of the data using PSS, PHQ-9, and GAD-7 scores
 - Co-designing AI-driven interventions
 
-**Output:** A co-authored paper, _"My Mind Is a Combination of My Body, My Money, and My Study": Contextualizing Mental Health Support Ecologies for Tertiary Students in Bangladesh_, is under review at ACM CHI 2027.
+**Output:** A co-authored paper, _"My Mind Is a Combination of My Body, My Money, and My Study": Contextualizing Mental Health Support Ecologies for Tertiary Students in Bangladesh_, is in preparation.

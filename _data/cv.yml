@@ -61,8 +61,8 @@ cv:
         start_date: 2026-04-01
         end_date: present
 
-      - name: HEAT Subproject (World Bank-funded), DIAL
-        summary: Nationwide mixed-methods study of the mental health of tertiary-level students in Bangladesh. Co-authored paper under review at ACM CHI 2027.
+      - name: Alor Dhara, HEAT Subproject (World Bank-funded), DIAL
+        summary: Nationwide mixed-methods study of the mental health of tertiary-level students in Bangladesh. Co-authored manuscript in preparation.
         start_date: 2026-01-01
         end_date: present
 
