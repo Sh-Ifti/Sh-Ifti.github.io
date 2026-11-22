@@ -72,7 +72,7 @@ cv:
         end_date: present
 
       - name: SHONCHALON, DIAL
-        summary: Low-cost ESP32 and IMU wearable with an Android app for real-time recognition of post-stroke rehabilitation exercises. Co-authored paper under review at IEEE PerCom 2027.
+        summary: Low-cost ESP32 and IMU wearable with an Android app for real-time recognition of post-stroke rehabilitation exercises. Co-authored paper being prepared for ACM CHI 2027 Late-Breaking Work.
         start_date: 2024-06-01
         end_date: 2025-10-01
 

@@ -15,4 +15,4 @@ category: research
 - A custom Android application connected over Bluetooth for real-time 5 Hz data logging
 - Analysis of the motion data to recognize exercises and assess the correctness of hand movements
 
-**Output:** _SHONCHALON: A Wearable for Real-Time Multi-Class Exercise Recognition and Feedback in Post-Stroke Upper-Limb Rehabilitation_ (co-author), under review at IEEE PerCom 2027.
+**Output:** _SHONCHALON: A Wearable for Real-Time Multi-Class Exercise Recognition and Feedback in Post-Stroke Upper-Limb Rehabilitation_ (co-author), being prepared for submission to ACM CHI 2027 Late-Breaking Work.

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Published work, papers under review, and manuscripts in preparation.
+description: Published work and manuscripts in preparation.
 nav: true
 nav_order: 1
 ---
@@ -19,13 +19,10 @@ nav_order: 1
 
 </div>
 
-## Under review
-
-- **SHONCHALON: A Wearable for Real-Time Multi-Class Exercise Recognition and Feedback in Post-Stroke Upper-Limb Rehabilitation**<br>
-  Co-author · _IEEE PerCom 2027_, under review
-
 ## In preparation
 
+- **SHONCHALON: A Wearable for Real-Time Multi-Class Exercise Recognition and Feedback in Post-Stroke Upper-Limb Rehabilitation**<br>
+  Co-author · target: _ACM CHI 2027 Late-Breaking Work_
 - **"My Mind Is a Combination of My Body, My Money, and My Study": Contextualizing Mental Health Support Ecologies for Tertiary Students in Bangladesh**<br>
   Co-author · Alor Dhara project
 - Technology adoption among low-literate women (Co-learning & Familiarization Project) · target: _ACM IMWUT_
